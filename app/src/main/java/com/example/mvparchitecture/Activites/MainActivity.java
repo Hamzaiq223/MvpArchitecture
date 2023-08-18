@@ -1,8 +1,10 @@
-package com.example.mvparchitecture;
+package com.example.mvparchitecture.Activites;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.mvparchitecture.R;
 
 public class MainActivity extends AppCompatActivity {
 
