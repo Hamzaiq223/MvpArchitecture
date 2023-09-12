@@ -25,9 +25,7 @@ public class ApiClient {
 
     private static Retrofit retrofit = null;
 
-    private static Retrofit retrofitForLinkedIn = null;
 
-    private static Retrofit retrofitForOpenAI = null;
 
     public static ApiInterface getAPIClient() {
         if (retrofit == null) {
